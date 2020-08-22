@@ -1,7 +1,13 @@
-Temp/
-Library/
-Obj/
-Logs/
+[Tt]emp/
+[Ll]ibrary/
+[Oo]bj/
+[Ll]ogs/
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+
+WSATestCertificate.pfx
+*.pfx
 
 *.sln
 *.csproj
