@@ -1,0 +1,13 @@
+Temp/
+Library/
+Obj/
+
+*.sln
+*.csproj
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
